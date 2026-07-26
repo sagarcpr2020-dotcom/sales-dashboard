@@ -49,9 +49,10 @@ The objective of this dashboard is to transform sales data into meaningful busin
 
 This dashboard can help business users monitor key performance indicators, identify sales trends, analyze profitability, and make data-driven decisions.
 
+
 ## 📷 Dashboard Preview
 
-The dashboard screenshot is included in this repository for visual reference.
+![Sales Analysis Dashboard](./Screenshot%202025-07-21%20224823.png)
 
 ---
 
